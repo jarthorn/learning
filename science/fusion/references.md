@@ -1,0 +1,2 @@
+- [A general comparison between tokamak and stellarator plasmas](https://www.sciencedirect.com/science/article/pii/S2468080X16300322)
+- [Nuclear Fusion](https://www.springer.com/gp/book/9783319981703) - Graduate Physics Textbook by Edward Morse

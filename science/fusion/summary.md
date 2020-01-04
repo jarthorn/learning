@@ -24,12 +24,17 @@ Nuclear energy has a poor reputation for safety, which has resulted in defunding
 
 Nuclear weapons are capable of ending human civilization. When looking at long term energy sources, it should be compatible with a world free of nuclear weapons. This is a major drawback of fission power, which requires similar fuels to those used by nuclear weapons. The infrastructure required to support fission power (uranium processing and enrichment) can easily be repurposed to produce nuclear weapons. Weapon-grade plutonium is produced in nuclear fission reactors. Replacing traditional energy sources with fission reactors would put this infrastructure in more countries and forever come with the risk of nuclear weapon proliferation. Now let's look at fusion. Some nuclear weapons use fusion reactions to magnify their power, but still require a fission reaction to trigger fusion. The fuels used in a fusion reactor are not sufficient to produce nuclear weapons. Fusion reactors do produce a large supply of free neutrons, which could be used to enrich uranium for use in nuclear weapons. However, uranium is easy to detect, and since there is no valid reason for such materials in a fusion plant it would be easy to monitor for illegal enrichment activity. A long term future that uses a mixture of fusion and renewable power sources would allow for complete elimination of the tech and infrastructure needed to create nuclear weapons.
 
-## References
+## Conclusion and References
 
-Podcasts
+Fusion energy is full of both promise and frustration. The long term potential is so large it is worth pursuing, but it won't help in the short term. It is more urgent to pursue energy storage, renewables, and fission power to lower carbon now. At the same time it restores faith in humanity to see so many brilliant people pursuing a goal that is likely essential for humanity in long term. At the height of the cold war Soviet scientists and US military were sharing knowledge on fusion, and modern projects like ITER are a huge success story in int'l cooperation. It is a field worth following, and I'm excited to see where it goes. I have no expertise here so please study it yourself and come to your own conclusions.
 
-Book:
+Resources: if you only have a few hours to learn about fusion energy, I highly recommend @omegataupodcast episodes in the following order: 304, 22, 157, 312, 285.
 
+Most useful book: The Future of Fusion Energy by Jason Parisi and @JB_Fusion. Detailed argument on why fusion is worth pursuing, approachable physics explanation, historical survey, and some advanced topics.
+
+Advanced book: Nuclear Fusion by Edward Morse. If you really want to get into detail on the math and physics, but good high level summaries too.
+
+Wikipedia has a lot of pages on Fusion. It is useful to lookup specific details, but not a good main source because fringe ideas are lumped together with mainstream ideas and it is hard to form useful conclusions.
 
 
 Eurofusion roadmap, source of the "30 years" estimate. https://www.euro-fusion.org/fileadmin/user_upload/EUROfusion/Documents/Roadmap.pdf
